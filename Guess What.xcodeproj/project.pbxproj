@@ -14,6 +14,7 @@
 		C4C0B4791C655EC50009AD5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4C0B4771C655EC50009AD5B /* LaunchScreen.storyboard */; };
 		C4C0B4841C655EC50009AD5B /* Guess_WhatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C0B4831C655EC50009AD5B /* Guess_WhatTests.swift */; };
 		C4C0B48F1C655EC50009AD5B /* Guess_WhatUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C0B48E1C655EC50009AD5B /* Guess_WhatUITests.swift */; };
+		C4C0B49D1C655F170009AD5B /* whatisinyourmind.png in Resources */ = {isa = PBXBuildFile; fileRef = C4C0B49C1C655F170009AD5B /* whatisinyourmind.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C4C0B48A1C655EC50009AD5B /* Guess WhatUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Guess WhatUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4C0B48E1C655EC50009AD5B /* Guess_WhatUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guess_WhatUITests.swift; sourceTree = "<group>"; };
 		C4C0B4901C655EC50009AD5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4C0B49C1C655F170009AD5B /* whatisinyourmind.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whatisinyourmind.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		C4C0B46D1C655EC50009AD5B /* Guess What */ = {
 			isa = PBXGroup;
 			children = (
+				C4C0B49C1C655F170009AD5B /* whatisinyourmind.png */,
 				C4C0B46E1C655EC50009AD5B /* AppDelegate.swift */,
 				C4C0B4701C655EC50009AD5B /* ViewController.swift */,
 				C4C0B4721C655EC50009AD5B /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4C0B4791C655EC50009AD5B /* LaunchScreen.storyboard in Resources */,
+				C4C0B49D1C655F170009AD5B /* whatisinyourmind.png in Resources */,
 				C4C0B4761C655EC50009AD5B /* Assets.xcassets in Resources */,
 				C4C0B4741C655EC50009AD5B /* Main.storyboard in Resources */,
 			);
